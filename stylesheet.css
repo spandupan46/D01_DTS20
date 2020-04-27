@@ -18,6 +18,9 @@ a {
   display: none;
 
 }
+.animated {
+  text-shadow: 2px 2px 4px #000000;
+}
 .container {
   max-width: 1170px;
   width: 100%;
