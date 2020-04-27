@@ -10,13 +10,12 @@ body {
 a {
   text-decoration: none;
 }
-.menu-icon {
+#bars {
   color: white;
   float: right;
   font-size: 25px;
   padding: 21px 0;
   display: none;
-
 }
 .animated {
   text-shadow: 2px 2px 4px #000000;
@@ -59,7 +58,6 @@ a {
 .btn-wrapper {
   margin: 20px 0;
 }
-
 .btn-wrapper p {
   margin: 10px 0;
 }
@@ -194,14 +192,14 @@ header {
   box-shadow: none;
 }
 
-footer p {
+.footer p {
     color: #ffffff;
     font-size: 18px;
     text-align: center;
     font-family: Lato;
   }
 
-  footer {
+  .footer {
     padding-top: 20px;
     padding-bottom: 20px;
     background-color:  rgba(34, 49, 52, 0.9);
